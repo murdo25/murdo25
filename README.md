@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xwc5c8DCoAF440/giphy.gif" />
+Current Research Interests include:
+- :robot: Reinforcement Learning
+- :mag_right: Natural Language Processing
+- :notebook_with_decorative_cover: Retreval Augmented Neural Netowrks
 
-- :robot: Obsessed with everything tech
-- :mag_right: Learning and doing research in Natural Language Processing and Reinforcement Learning
-- :briefcase: Consulting and Freelancing
 
 ## Interests-Obsessions-Goals-Dreams-Stuff
 
