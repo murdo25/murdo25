@@ -1,4 +1,3 @@
-
 <!--
 Here are some ideas to get you started:
 
@@ -26,19 +25,17 @@ Here are some ideas to get you started:
 - :notebook_with_decorative_cover: Retreval Augmented Neural Netowrks
 
 
-### Interests-Goals-Dreams
+### Interests-Goals-Dreams:
 
 - :rainbow: Ally
 - :shield: Fighting pseudoscience and misinformation about AI
-- :microscope: Better education for everyone
-- :dragon: Building and playing games
-- :video_game: Watching Science-Fiction
+- :video_game: Building and playing games
+- :microscope: Bio Hacking and Ageing research 
 
-### My Projects
+### My Projects:
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
 |------------|-----------------------|--------------------|------------------------|
 | [World's first deep learning powered game](https://www.theverge.com/2019/12/30/21042942/ai-dungeon-nick-walton-openai-gpt2-text-adventure-game-web-version-launch) | [EVE Chatbot](https://pcc.cs.byu.edu/2018/02/24/we-are-eve/)| [T5 QA](https://github.com/murdo25/huggingfaceQA)| [1st Place at IEEE CIG 2016/2017](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/2017/08/29/SecondYearResults/) |
-
 
 
 ---
