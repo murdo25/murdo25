@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - :rainbow: Ally
 - :shield: Fighting pseudoscience and misinformation about AI
 - :video_game: Building and playing games
-- :microscope: Bio Hacking and Ageing research 
+- :microscope: Bio Hacking and Aging research
 
 ### My Projects:
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
