@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xwc5c8DCoAF440/giphy.gif" />
 Current Research Interests include:
 
-- :robot: Reinforcement Learning
+- :robot: Deep Learning
+- :book: Emergent Communication
+- :space_invader: Reinforcement Learning
 - :mag_right: Natural Language Processing
 - :notebook_with_decorative_cover: Retreval Augmented Neural Netowrks
 
