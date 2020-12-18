@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - :microscope: Better education for everyone. Not everyone learns the same way.
 - :dragon: Reading fantasy. Watching Science-Fiction.
 
-## My Projects
+### My Projects
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
 |------------|-----------------------|--------------------|------------------------|
 | [World's first deep learning powered game](https://www.theverge.com/2019/12/30/21042942/ai-dungeon-nick-walton-openai-gpt2-text-adventure-game-web-version-launch) | [EVE Chatbot](https://pcc.cs.byu.edu/2018/02/24/we-are-eve/)| [T5 QA](https://github.com/murdo25/huggingfaceQA)| [1st Place at IEEE CIG 2016/2017](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/2017/08/29/SecondYearResults/) |
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Connect:
+### Connect:
 
 [<img align="left" alt="bens | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bens | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
