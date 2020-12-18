@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ## :brain: Hi I'm Ben! And I build robot brains :brain:
 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xwc5c8DCoAF440/giphy.gif" />
 
 ### Current Research Interests include:
@@ -27,11 +26,13 @@ Here are some ideas to get you started:
 - :notebook_with_decorative_cover: Retreval Augmented Neural Netowrks
 
 
-### Interests-Obsessions-Goals-Dreams-Stuff
+### Interests-Goals-Dreams
 
-- :shield: Fighting pseudoscience and misinformation.
-- :microscope: Better education for everyone. Not everyone learns the same way.
-- :dragon: Reading fantasy. Watching Science-Fiction.
+- :rainbow: Ally
+- :shield: Fighting pseudoscience and misinformation about AI
+- :microscope: Better education for everyone
+- :dragon: Building and playing games
+- :video_game: Watching Science-Fiction
 
 ### My Projects
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
