@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - :book: Emergent Communication
 - :space_invader: Reinforcement Learning
 - :mag_right: Natural Language Processing
-- :notebook_with_decorative_cover: Retreval Augmented Neural Netowrks
+- :notebook_with_decorative_cover: Retreval Augmented Neural Networks
+- :eye: Computer Vision
 
 
 ### Interests-Goals-Dreams:
