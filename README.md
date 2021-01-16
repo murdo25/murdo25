@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - :shield: Fighting pseudoscience and misinformation about AI
 - :video_game: Building and playing games
 - :microscope: Bio Hacking and Aging research
+- :house: Home Automation
 
 ### My Projects:
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
