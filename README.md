@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### Interests-Goals-Dreams:
+### Other-Goals-Dreams:
 
 - :rainbow: Ally
 - :shield: Fighting pseudoscience and misinformation about AI
