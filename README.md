@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ### ME:
 
 - :rainbow: Ally
-- :shield: Fighting pseudoscience and misinformation about AI
 - :video_game: Building and playing games
 - :microscope: Bio Hacking and Aging research
 - :house: Home Automation
