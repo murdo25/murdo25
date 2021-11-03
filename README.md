@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Current Research Interests include:
 - :robot: &nbsp; Deep Learning
-- :book: &nbsp; Emergent Communication
+- :speech_balloon: &nbsp; Emergent Communication
 - :space_invader: &nbsp; Reinforcement Learning
 - :mag_right: &nbsp; Natural Language Processing
-- :notebook_with_decorative_cover: &nbsp; Retreval Augmented Neural Networks
+- :book: &nbsp; Retreval Augmented Neural Networks
 - :question: &nbsp; Multi-Hop Question Answering
 - :microscope: &nbsp; Bio Hacking and Aging research
 
