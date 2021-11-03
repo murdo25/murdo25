@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-### ME:
+### Me:
 
 - :rainbow: &nbsp; Ally
 - :video_game: &nbsp; Building and playing games
