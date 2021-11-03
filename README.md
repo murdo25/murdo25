@@ -17,24 +17,22 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o85xwc5c8DCoAF440/giphy.gif" />
 
 ### Current Research Interests include:
-
-- :robot: Deep Learning
-- :book: Emergent Communication
-- :space_invader: Reinforcement Learning
-- :mag_right: Natural Language Processing
-- :eye: Computer Vision
-- :notebook_with_decorative_cover: Retreval Augmented Neural Networks
-- :question: Multi-Hop Question Answering
-- :microscope: Bio Hacking and Aging research
+- :robot: &nbsp; Deep Learning
+- :book: &nbsp; Emergent Communication
+- :space_invader: &nbsp; Reinforcement Learning
+- :mag_right: &nbsp; Natural Language Processing
+- :notebook_with_decorative_cover: &nbsp; Retreval Augmented Neural Networks
+- :question: &nbsp; Multi-Hop Question Answering
+- :microscope: &nbsp; Bio Hacking and Aging research
 
 
 
 ### ME:
 
-- :rainbow: Ally
-- :video_game: Building and playing games
-- :microscope: Bio Hacking and Aging research
-- :house: Home Automation
+- :rainbow: &nbsp; Ally
+- :video_game: &nbsp; Building and playing games
+- :microscope: &nbsp; Bio Hacking and Aging research
+- :house: &nbsp; Home Automation
 
 ### My Projects:
 | AI Dungeon | Alexa Price Challenge | Question Answering | Artificial Text Player |
