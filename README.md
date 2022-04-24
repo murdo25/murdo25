@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 - :rainbow: &nbsp; Ally
 - :video_game: &nbsp; Building and playing games
-- :microscope: &nbsp; Bio Hacking and Aging research
 - :house: &nbsp; Home Automation
 
 ### My Projects:
