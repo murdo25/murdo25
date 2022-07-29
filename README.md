@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="bens | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bens | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[Resume](https://drive.google.com/file/d/18CYCh7zW1nrxthb0F2F0pOY0llB4D_0L/view?usp=sharing)
 </br>
 
 
